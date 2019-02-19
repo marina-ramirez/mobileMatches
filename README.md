@@ -1,3 +1,3 @@
 # mobileMatches
 
-Click [Here](https://github.com/marina-ramirez/mobileMatches/) to see my awesome work!
+Click [Here](https://marina-ramirez.github.io/mobileMatches/) to see my awesome work!
