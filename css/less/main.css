@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+}
+@media screen and (min-width: 600px) {
+  body {
+    background-color: rebeccapurple;
+  }
+}
+@media screen and (min-width: 900px) {
+  body {
+    background-color: darkorange;
+  }
+}
+@media screen and (min-width: 1024px) {
+  body {
+    background-color: chartreuse;
+  }
+}
+/*# sourceMappingURL=main.css.map */
