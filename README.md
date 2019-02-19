@@ -1,3 +1,3 @@
 # mobileMatches
 
-Click [Here](https://marina-ramirez.github.io/flexSeal/) to see my awesome work!
+Click [Here](https://github.com/marina-ramirez/mobileMatches/edit/master/README.md) to see my awesome work!
